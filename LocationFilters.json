@@ -1,0 +1,16 @@
+[
+  {
+    "name": "london",
+    "lat": 51.509865,
+    "lng": -0.118092,
+    "radius": 30,
+    "neighbourhoodDataURL":  "https://raw.githubusercontent.com/blackmad/neighborhoods/master/london.geojson"
+  },
+  {
+    "name": "newyork",
+    "lat": 40.730610,
+    "lng": -73.935242,
+    "radius": 35,
+    "neighbourhoodDataURL": "https://raw.githubusercontent.com/blackmad/neighborhoods/master/new-york-city-boroughs.geojson"
+  }
+]
