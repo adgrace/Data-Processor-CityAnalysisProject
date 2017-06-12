@@ -28,47 +28,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Processor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/Processor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="132" column="30" lean-forward="false" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
-              <folding>
-                <marker date="1497185588000" expanded="true" signature="3223:3291" ph="SELECT * FRO... Venue_Detailed" />
-                <marker date="1497185588000" expanded="true" signature="3412:3480" ph="SELECT * FRO... Venue_Detailed" />
-                <marker date="1497185588000" expanded="true" signature="4018:4082" ph="SELECT * FRO... User_Detailed" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserObj.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/entities/UserObj.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KMetoids.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/other/KMetoids.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="foursquare-categories.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="foursquare-categories.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foursquare-categories.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="10193" column="1" lean-forward="false" selection-start-line="10193" selection-start-column="1" selection-end-line="10193" selection-end-column="1" />
+            <state relative-caret-position="58">
+              <caret line="10168" column="9" lean-forward="true" selection-start-line="10168" selection-start-column="9" selection-end-line="10168" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -133,6 +92,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="DataProcessor.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataProcessor.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Icon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/entities/Icon.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,8 +123,18 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="152" column="17" lean-forward="false" selection-start-line="152" selection-start-column="17" selection-end-line="152" selection-end-column="17" />
+            <state relative-caret-position="45">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Data-Processor-CityAnalysis.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data-Processor-CityAnalysis.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -222,7 +201,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/models/venuebased.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/models.java" />
         <option value="$PROJECT_DIR$/LocationFilters.json" />
-        <option value="$PROJECT_DIR$/DataProcessor.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/entities/Venue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/entities/VenueDetails.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/entities/RelatedVenues.java" />
@@ -255,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/entities/categories.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/Models.java" />
         <option value="$PROJECT_DIR$/foursquare-categories.json" />
+        <option value="$PROJECT_DIR$/DataProcessor.properties" />
       </list>
     </option>
   </component>
@@ -965,12 +944,12 @@
       <workItem from="1494031723077" duration="7120000" />
       <workItem from="1494730549928" duration="25631000" />
       <workItem from="1494788512122" duration="39195000" />
-      <workItem from="1497136795381" duration="47069000" />
+      <workItem from="1497136795381" duration="48145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306001000" />
+    <option name="totallyTimeSpent" value="307077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="23" width="1920" height="1053" extended-state="6" />
@@ -987,7 +966,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23201175" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41727367" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41727367" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1159,13 +1138,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data-Processor-CityAnalysis.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/models/hybrid.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/models/neighbourhood.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/models/userbased.java" />
@@ -1217,14 +1189,6 @@
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataProcessor.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1476,14 +1440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="152" column="17" lean-forward="false" selection-start-line="152" selection-start-column="17" selection-end-line="152" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alexgrace/finalyearproject/dataprocessor/entities/Icon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1546,8 +1502,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foursquare-categories.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="10193" column="1" lean-forward="false" selection-start-line="10193" selection-start-column="1" selection-end-line="10193" selection-end-column="1" />
+        <state relative-caret-position="58">
+          <caret line="10168" column="9" lean-forward="true" selection-start-line="10168" selection-start-column="9" selection-end-line="10168" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data-Processor-CityAnalysis.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataProcessor.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
